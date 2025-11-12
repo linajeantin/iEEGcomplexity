@@ -210,7 +210,7 @@ def get_region_vertices(subjects_dir: str, parc_name: str, parcel_key: str):
 # =========================
 st.title("🧠 Atlas of iEEG Complexity")
 st.caption("Select a cortical region and a sleep stage to retrieve the average metric of iEEG spectrum or complexity.")
-st.caption("<SAMPLE VERSION (one sample value per parameter): full databases and metrics will be available at the time of publication.>")
+st.caption("<DEMO VERSION (one sample value per parameter): full databases and metrics will be available at the time of publication.>")
 
 c1, c2 = st.columns(2)
 
