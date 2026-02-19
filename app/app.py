@@ -6,6 +6,7 @@
 
 # app.py
 import os
+from pathlib import Path
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -45,7 +46,7 @@ st.markdown("""
 # Data & keys
 # =========================
 
-METRICS_PATH = "metrics_by_parcel_sample.csv"  
+METRICS_PATH = Path(__file__).parent / "metrics_by_parcel.csv"
 
 # == Mapping CSV parcel_key -> approximate (aparc.a2009s) (only for visual rendering)
 REGION_TO_ANNOT = {
