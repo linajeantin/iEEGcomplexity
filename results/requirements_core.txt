@@ -1,0 +1,28 @@
+# --- Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# --- EEG / MNE
+mne
+nibabel
+
+# --- Stats / models
+statsmodels
+scikit-learn
+
+# --- 3D brain rendering (mne.viz.Brain)
+pyvista
+pyvistaqt
+vtk
+
+# --- Image saving helpers (Brain.save_image / plots)
+pillow
+imageio
+
+# --- Qt backend (needed for interactive 3D windows on many setups)
+PyQt5
+

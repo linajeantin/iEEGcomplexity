@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-nibabel
-nilearn
-plotly
-scipy
-mne
-
