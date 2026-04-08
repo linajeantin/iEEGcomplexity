@@ -396,8 +396,10 @@ with st.expander("About / Reproducibility"):
 - **Source data files for all metrics, cortical regions and sleep stages**: https://github.com/linajeantin/iEEGcomplexity/tree/main
 - **3D rendering** of the selected cortical region is based on fsaverage templates and the aparc.a2009s parcellation (Destrieux et al., 2010 https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation)
 
-**To use this work please cite**: <Temporary: Lina Jeantin, Lionel Naccache, Paris Brain Institute, Pitié Salpétrière University Hospital, Paris, France. lina.jeantin@proton.me>
+**To use this work please cite**:  Lina Jeantin, Pierre Bourdillon, Marc Guenot, Hélène Bastuji, Jacobo D Sitt, Lionel Naccache. PNAS Nexus 2026. https://doi.org/10.1093/pnasnexus/pgag048
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. **Please note that this program is provided with no warranty of any kind.**
+
+Lina Jeantin, Lionel Naccache, Paris Brain Institute, Pitié Salpétrière University Hospital, Paris, France. lina.jeantin@proton.me
 """)
 
